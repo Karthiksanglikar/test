@@ -10,6 +10,9 @@ PSA academy
 Hello I am karthik from sharana
 PSA academy 
 
+public class D{
+String s1="hello basava";
+}
 
 hello bbsbibsijsjan
 
