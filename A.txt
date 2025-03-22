@@ -11,9 +11,16 @@ PSA academy
 Hello I am karthik from sharana
 PSA academy 
 
+<<<<<<< Updated upstream
 public class D{
 String s1="hello basava";
 }
+=======
+public class c{
+String s="hello sharan"
+}
+
+>>>>>>> Stashed changes
 
 hello bbsbibsijsjan
 
